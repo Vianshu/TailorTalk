@@ -1,0 +1,13 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+streamlit==1.38.0
+langchain==0.3.0
+langchain-google-genai==2.0.0
+langchain-groq==0.3.0
+langchain-experimental==0.3.0
+pandas==2.2.2
+matplotlib==3.9.2
+seaborn==0.13.2
+python-dotenv==1.0.1
+tabulate==0.9.0
+pydantic==2.9.1
